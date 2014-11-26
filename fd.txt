@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 2222222222222222222222222222fffffffffffffffffff
-=======
+
 testfff
->>>>>>> 8a3c6abfa0ef7ee5e9465fe509b835a1cc19c561
+
