@@ -1,8 +1,0 @@
-#!/bin/sh
-
-if [ -n "$1" ]
-then
-    exec git push origin HEAD:refs/for/"$1"%r=yq.zhang,r=caof,r=shenhq,r=ouxz
-else
-    exec git push origin HEAD:refs/for/v2.3.9%r=yq.zhang,r=caof,r=shenhq,r=ouxz
-fi
